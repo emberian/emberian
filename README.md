@@ -6,8 +6,6 @@ i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [
 
 ## open source contribution grab-bag
 
-Here's the reformatted list with project names first:
-
 - **Gitalist**: [Fixed a small error message](https://github.com/broquaint/Gitalist/pull/32)
 - **node-tap**: [Made it ignore certain non-executable files](https://github.com/tapjs/node-tap/pull/36)
 - **sElement**: README in https://github.com/Tatsh-archive/sElement
