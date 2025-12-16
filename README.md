@@ -3,7 +3,7 @@ please email <mailto:neglect@ember.software> if any of my open source projects n
 catch me in matrix? web portal: <https://ember.dev>
 
 i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [highlighted here](https://ember.dev/rust/) and [chronologged here](https://gist.github.com/emberian/6382f34b6674d1f9ec5ae93e17a27615).
-
+<!--
 <details>
 ## open source contribution grab-bag
 
@@ -54,3 +54,4 @@ i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [
 - **seL4**: [Tweaked a magic number](https://github.com/seL4/seL4/pull/52)
 - **ArkeOS**: Same friend as earlier doing game stuff, [this time with a fictional computer](https://github.com/Arke64/ArkeOS/commits?author=cmr). Made it run on mono in linux.
 </details>
+-->
