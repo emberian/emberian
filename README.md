@@ -1,9 +1,10 @@
 please email <mailto:neglect@ember.software> if any of my open source projects need some love
 
-catch me in matrix? web portal: <https://ember.dev>
+catch me in matrix? web portal: <https://ember.software>
 
-i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [highlighted here](https://ember.dev/rust/) and [chronologged here](https://gist.github.com/emberian/6382f34b6674d1f9ec5ae93e17a27615).
 <!--
+i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [highlighted here](https://ember.dev/rust/) and [chronologged here](https://gist.github.com/emberian/6382f34b6674d1f9ec5ae93e17a27615).
+
 <details>
 ## open source contribution grab-bag
 
