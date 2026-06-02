@@ -4,6 +4,8 @@ catch me in matrix? web portal: <https://ember.software>
 
 i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [highlighted here](https://ember.dev/rust/) and [chronologged here](https://gist.github.com/emberian/6382f34b6674d1f9ec5ae93e17a27615).
 
+https://github.com/emberian/dregg and https://github.com/emberian/graphplay and https://github.com/emberian/svenvs are interesting.
+
 <details>
 ## open source contribution grab-bag
 
@@ -55,7 +57,7 @@ i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [
 - **ArkeOS**: Same friend as earlier doing game stuff, [this time with a fictional computer](https://github.com/Arke64/ArkeOS/commits?author=cmr). Made it run on mono in linux.
 </details>
 
-## Ember's projects (from starmap summaries)
+## Ember's projects, partial (from starmap summaries)
 
 _200 ember-authored repos summarized by Gemini, grouped by category. Reference for domain skills + overview. Source: ~/dev/starmap._
 
