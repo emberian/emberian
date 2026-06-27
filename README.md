@@ -7,8 +7,11 @@ i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [
 https://github.com/emberian/dregg and https://github.com/emberian/graphplay and https://github.com/emberian/svenvs are interesting.
 
 these coins fund my work:
-- clustervision (supporting autonomous agentic development) https://pump.fun/coin/5NFcUdd5BqSpAS1Us6uiMAf8LoYPEY4TWvxXUr7jpump
-- dregg (supporting the Dragon's Egg verified hypermedia ecosystem) https://pump.fun/coin/XkeTXo1125vz5H9svJpGiw4JvLbN8VmMu9cmMvspump
+- dregg (supporting the Dragon's Egg verified hypermedia ecosystem, autonomous agentic development, and machine autarky) https://pump.fun/coin/XkeTXo1125vz5H9svJpGiw4JvLbN8VmMu9cmMvspump
+
+my personal mina address is EKF5Uk95ng6vVHTPCq6bg5f1hjAehJDTAbFYhEHfXg5edXTjGozD
+
+my personal eth address is 0x46d42e1C97299dafC44B857976713dAB464CFF19
 
 <details>
 ## open source contribution grab-bag
