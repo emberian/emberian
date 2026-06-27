@@ -6,6 +6,10 @@ i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [
 
 https://github.com/emberian/dregg and https://github.com/emberian/graphplay and https://github.com/emberian/svenvs are interesting.
 
+these coins fund my work:
+- clustervision (supporting autonomous agentic development) https://pump.fun/coin/5NFcUdd5BqSpAS1Us6uiMAf8LoYPEY4TWvxXUr7jpump
+- dregg (supporting the Dragon's Egg verified hypermedia ecosystem) https://pump.fun/coin/XkeTXo1125vz5H9svJpGiw4JvLbN8VmMu9cmMvspump
+
 <details>
 ## open source contribution grab-bag
 
