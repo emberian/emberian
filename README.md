@@ -15,7 +15,7 @@ my personal eth address is 0x46d42e1C97299dafC44B857976713dAB464CFF19
 
 my personal sol address is FL8qBdxTMVReqNcU6Qq5ueXeteqPQwKPBqNzMrorJtad
 
-my twitter account is https://x.com/ember_arlynx
+my twitter account is https://x.com/ember_arlynx and https://x.com/DreggNet
 
 <details>
 ## open source contribution grab-bag
