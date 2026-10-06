@@ -4,7 +4,8 @@ catch me in matrix? web portal: <https://ember.software>
 
 i wrote rustdoc, started This Week in Rust, and a bunch of other pre-1.0 stuff [highlighted here](https://ember.dev/rust/) and [chronologged here](https://gist.github.com/emberian/6382f34b6674d1f9ec5ae93e17a27615).
 
-https://github.com/emberian/dregg and https://github.com/emberian/graphplay and https://github.com/emberian/svenvs are interesting.
+<details>
+https://github.com/emberian/dregg and https://github.com/emberian/minidregg and https://github.com/emberian/svenvs and https://github.com/emberian/clairnets are interesting.
 
 these coins fund my work:
 - dregg (supporting the Dragon's Egg verified hypermedia ecosystem, autonomous agentic development, and machine autarky) https://pump.fun/coin/XkeTXo1125vz5H9svJpGiw4JvLbN8VmMu9cmMvspump
@@ -17,8 +18,7 @@ my personal sol address is FL8qBdxTMVReqNcU6Qq5ueXeteqPQwKPBqNzMrorJtad
 
 my twitter account is https://x.com/ember_arlynx and https://x.com/DreggNet
 
-<details>
-## open source contribution grab-bag
+## open source contribution grab-bag ("prehistory")
 
 - **Gitalist**: [Fixed a small error message](https://github.com/broquaint/Gitalist/pull/32)
 - **node-tap**: [Made it ignore certain non-executable files](https://github.com/tapjs/node-tap/pull/36)
